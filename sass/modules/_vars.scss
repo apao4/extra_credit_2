@@ -1,0 +1,11 @@
+$body-font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$header-font: 'MiniFont', arial, helvetica;
+$border: #A5A5A5;
+
+// @charset "UTF-8";
+
+@font-face {
+  font-family: 'MiniFont';
+  src:
+    url('miniwebfont.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

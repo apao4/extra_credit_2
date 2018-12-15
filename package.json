@@ -1,0 +1,23 @@
+{
+  "name": "extra_credit_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apao4/extra_credit_2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apao4/extra_credit_2/issues"
+  },
+  "homepage": "https://github.com/apao4/extra_credit_2#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
